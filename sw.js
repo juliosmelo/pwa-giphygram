@@ -2,7 +2,6 @@
 const version = 'static-1.0';
 
 const appAssets = [
-    '/',
     'index.html', 
     'main.js', 
     'images/flame.png',
